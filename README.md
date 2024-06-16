@@ -1,4 +1,5 @@
-## Hi there 👋
+## Introducing Petti! A spice-rack of gravitational-wave data analysis pipelines using machine learning.
+The name ✨_Petti_✨ was derived from the Tamil word _Anjarai Petti_, which is traditionally a round wooden or metal box used in Tamil Nadu to keep frequently used spices and herbs. It typically has six to nine small cups, each containing a separate kitchen favourite. **petti-gw** will contain several machine-learning based gravitational-wave data analysis pipelines, aptly named after spices, herbs and food in general. 
 
 <!--
 **petti-gw/petti-gw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
